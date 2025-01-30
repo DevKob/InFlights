@@ -62,7 +62,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgments
 
-We would like to thank our Mobile Programming course instructors and the Aviation Edge team for providing the API that made this project possible.
+We would like to thank our Group Team and the Aviation Edge team for providing the API that made this project possible.
 
 ## Contact
 
